@@ -1,5 +1,5 @@
 {
-	"name": "sammaye/yii2-discourse-sso",
+	"name": "stereochrome/yii2-discourse-sso",
 	"description": "A set of tools for Discourse unicorns.",
 	"keywords": ["yii2", "framework", "discourse", "sso"],
 	"homepage": "http://www.sammaye.wordpress.com/",
